@@ -8,7 +8,7 @@ Una aplicación descentralizada (DApp) minimalista para comprar cafés usando Et
 - **Smart Contracts:** Solidity (desplegado localmente con Foundry/Anvil)
 - **Wallet:** MetaMask
 
-![Vista previa de la DApp](./Screenshot%202026-10-19%20091812.png)
+
 
 ## 🚀 Cómo correr el proyecto localmente
 
